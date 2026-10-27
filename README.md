@@ -22,10 +22,11 @@ All on public, fictional data. My work data is confidential, so these show the s
 | [hr-kpi-sql-library](https://github.com/pankaj-chaubay/hr-kpi-sql-library) | Ten HR KPIs in SQL with a KPI dictionary |
 | [hr-data-quality-checks](https://github.com/pankaj-chaubay/hr-data-quality-checks) | SQL rules that find and fix problems in personnel records |
 | [jd-standardiser-local-llm](https://github.com/pankaj-chaubay/jd-standardiser-local-llm) | Job descriptions into one template with a local LLM, GDPR-aware |
+| [retail-dashboards-powerbi](https://github.com/pankaj-chaubay/retail-dashboards-powerbi) | Two Tableau dashboards from my M.Sc. rebuilt in Power BI: customer behaviour and sales, with DAX measures |
 
 ### Tools
 
-SQL · Power BI · Python (pandas, scikit-learn, statsmodels) · Excel / VBA · Snowflake · DuckDB · Minitab · Workday
+SQL · Power BI (DAX) · Tableau · Python (pandas, scikit-learn, statsmodels) · Excel / VBA · Snowflake · DuckDB · Minitab · Workday
 
 ### Contact
 
